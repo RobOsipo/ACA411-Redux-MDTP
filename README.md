@@ -18,7 +18,7 @@ Clone this repo and run `npm i` and then `npm start`
 
 * The first thing we need to do is create an `actions.js` file underneath our "redux" folder.
 
-##### addCar
+##### addCar 
 
 * Now, let's create an `action creator` called "addCar" that takes one parameter called "car". Have it return an object whose type is "ADD_CAR" and its value is the car parameter.
 
